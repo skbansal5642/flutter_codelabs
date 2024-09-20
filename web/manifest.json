@@ -1,6 +1,6 @@
 {
-    "name": "testing_app",
-    "short_name": "testing_app",
+    "name": "patterns_and_records",
+    "short_name": "patterns_and_records",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

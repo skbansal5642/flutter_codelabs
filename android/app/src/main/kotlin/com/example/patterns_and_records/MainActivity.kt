@@ -1,4 +1,4 @@
-package com.example.testing_app
+package com.example.patterns_and_records
 
 import io.flutter.embedding.android.FlutterActivity
 
